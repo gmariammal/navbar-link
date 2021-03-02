@@ -8,13 +8,13 @@ en:
         destroy: Destroy
         edit: Edit
       menu:
-        appearance: Appearance
-        area_types: Area types
+        appearance: Appearance test
+        area_types: Area types test
         areas: Areas
         configuration: Configuration
         help_sections: Help sections
         homepage: Homepage
-        navbar_links: Navbar links
+        navbar_links: Navbar links 123
         scope_types: Scope types
         scopes: Scopes
       models:
@@ -34,7 +34,7 @@ en:
           error: Error
           success: Success
       titles:
-        navbar_links: Navbar Links
+        navbar_links: Navbar Links 123
     components:
       navbar_links:
         name: NavbarLinks
@@ -56,7 +56,7 @@ en:
   decidim_navbar_links:
     admin:
       menu:
-        navbar_links: Navbar links
+        navbar_links: Navbar links 123
   layouts:
     decidim:
       admin:
